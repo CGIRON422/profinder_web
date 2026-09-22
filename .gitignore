@@ -1,0 +1,7 @@
+# El APK se distribuye desde un hosting de archivos o una Release de GitHub.
+# No se incluye en el repositorio ni en despliegues gratuitos de Vercel.
+downloads/ProFinder.apk
+
+# Archivos locales
+.DS_Store
+.vercel/
